@@ -1,6 +1,4 @@
 # 007: Nightfire (GameCube) On-screen timer
-This lua script displays the in-game timer on-screen. Made for use with the Dolphin 5.0 Lua Core.
-
 ![Gameplay Screenshot](https://cdn.discordapp.com/attachments/807451828002095175/817801194621239296/unknown.png)
 
 ## How to Use:
