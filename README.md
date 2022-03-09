@@ -12,6 +12,8 @@
 The timer will only display when you're in a level. It doesn't do anything in the menus.
 Once you go into a stage, you should see the in-game timer at the top corner of the screen.
 
+If you get an error message saying something about not being able to read an address, go to config > Interface and disable "Use Panic Handlers."
+
 ## Known Issues:
 
 The timer is totally inaccurate for Island Infiltration once you get past the first section where you're driving through the jungle. The reason is because the loading screens add on a seemingly random amount of time for no obvious reason. It's accurate for all the other driving levels, at least. I believe I'm looking at the wrong memory address here but I couldn't find a better one.
